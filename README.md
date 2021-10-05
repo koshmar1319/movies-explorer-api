@@ -4,4 +4,4 @@
 api.kshmr-movies.nomoredomains.club
 
 Публичный IPv4:
-84.201.162.244
+62.84.120.116
